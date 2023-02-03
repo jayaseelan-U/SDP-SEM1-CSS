@@ -1,0 +1,99 @@
+#titleName
+{
+height:50px;
+background-color:purple;
+text-color:white;
+}
+
+.one
+{
+width:1250px;
+height:500px;
+border-color:skyblue;
+border-style:solid;
+border-width:5px;
+}
+#health1
+{
+  padding:40px 20px 45px;
+  width:700px;
+  height:350px;
+ 
+}
+#healthDescription1
+{
+padding-top:90px;
+}
+
+.two
+{
+width:1250px;
+height:500px;
+}
+
+#health2
+{
+ padding:75px 20px 45px;
+ width:700px;
+  height:350px;
+}
+#healthDescription2
+{
+padding-top:90px;
+}
+
+
+.three
+{
+width:1250px;
+height:500px;
+}
+
+#health3
+{
+ padding:75px 20px 45px;
+ width:700px;
+ height:350px;
+}
+#healthDescription3
+{
+padding-top:90px;
+}
+
+
+
+.four
+{
+width:1250px;
+height:500px;
+}
+
+#health4
+{
+ padding:75px 20px 45px;
+ width:700px;
+ height:350px;
+}
+#healthDescription4
+{
+padding-top:90px;
+}
+
+.five
+{
+ width:1250px;
+ height:500px;
+}
+
+#health5
+{
+ padding:75px 20px 45px;
+ width:700px;
+ height:350px;
+}
+#healthDescription5
+{
+padding-top:90px;
+}
+
+

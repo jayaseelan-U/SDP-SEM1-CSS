@@ -1,0 +1,96 @@
+body
+{
+margin:0;
+padding:0;
+background-image:url(https://images.hdqwalls.com/wallpapers/avengers-poster-4k-27.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+font-family: 'Franklin Gothic Medium';
+}
+.one{
+    text-align:center;
+    background-color:black;
+    opacity:0.9;
+    width:70%;
+    margin-left:15%;
+    margin-top:5%;
+    margin-bottom:50px;
+}
+#TitleName{
+    background-color:red;
+     opacity: 1;
+    color:white;
+    font-size:30px;
+}
+#popularHeros{
+    color:white;
+    width:50%;
+    float:left;
+}
+#popularVillains{
+    color:white;
+    width:50%;
+    float:right;
+}
+#content-heading{
+    display:inline-block;
+    width:100%;
+}
+#content-body{
+    display:inline-block;
+}
+#heros{
+    width:50%;
+    float:left;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+#villans{
+    width:50%;
+    float:right;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+#superHeros1{
+    width:150px;
+    height:150px;
+    margin-bottom:0px;
+}
+#superHeros2,#superVillain1,#supervillain2{
+    width:150px;
+    height:150px;
+    margin-bottom:0px;
+}
+
+#superHerosName1{
+    background-color:white;
+    font-size:15px;
+    margin-top:0px;
+    font-weight:bolder;
+    width:150px;
+}
+#superHerosName2{
+    background-color:white;
+    font-size:15px;
+    margin-top:0px;
+    width:150px;
+    font-weight:bolder;
+}
+#superVillainName1{
+    background-color:white;
+    font-size:15px;
+    margin-top:0px;
+    font-weight:bolder;
+    width:150px;
+}
+#superVillainName2{
+    background-color:white;
+    font-size:15px;
+    margin-top:0px;
+    width:150px;
+    font-weight:bolder;
+}
+
+</style>

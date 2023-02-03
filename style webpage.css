@@ -1,0 +1,53 @@
+img{
+    width:100px;
+    height:100px;
+}
+body{
+    background-color: black;
+    font-family:'Lucida Sans';
+    font-weight:bold;
+    color:white;
+
+}
+#lists{
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+    background-color:white	;
+    display:inline-block;
+    height:900px;
+    align-items:center;
+    width:150px;
+    position:fixed;
+}
+#login,#table,#image,#frames{
+    text-decoration: none;
+}
+li{
+    padding-bottom:30px;
+    padding-left:30px;
+    padding-right:30px;
+}
+li a:hover{
+    background-color:red;
+
+}
+#title{
+    text-align:center;
+    padding-top:20%;;
+    font-size: 45px;
+    padding-left:120px;
+}
+#description{
+    opacity:0.8;
+    text-align:center;
+    padding-left:80px;
+}
+#headingLists{
+    font-size:25px;
+    color:black;
+    font-weight: bolder;
+    font-family:'Arial Narrow Bold';
+    padding-left:0px;
+    text-align: center;
+}
